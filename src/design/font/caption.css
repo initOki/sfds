@@ -1,0 +1,17 @@
+/**********
+* Caption *
+**********/
+
+.st_caption-b {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 14px;
+    /*letter-spacing: -2%;*/
+}
+
+.st_caption-r {
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 14px;
+    /*letter-spacing: -2%;*/
+}

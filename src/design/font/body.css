@@ -1,0 +1,103 @@
+/**********
+*  Subtitle   *
+**********/
+
+/* Sub Title */
+.st_subtitle-b-1 {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 24px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_subtitle-sb-1 {
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 24px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_subtitle-m-1 {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_subtitle-b-2 {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_subtitle-sb-2 {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_subtitle-m-2 {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    /*letter-spacing: -1%;*/
+}
+
+/* Subtitle */
+.st_body-1 {
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 24px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_body-lang-1 {
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 26px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_body-2 {
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_body-lang-2 {
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 24px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_body-3 {
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 18px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_body-lang-3 {
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 20px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_body-4 {
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 16px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_body-lang-4 {
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    /*letter-spacing: -1%;*/
+}

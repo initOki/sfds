@@ -1,0 +1,121 @@
+/**********
+*Semantic *
+**********/
+
+/* Danger */
+.st_danger-red-25 {
+    background: #FFF5F5;
+}
+
+.st_danger-red-50 {
+    background: #FFE9E9;
+}
+
+.st_danger-red-100 {
+    background: #FFDADB;
+}
+
+.st_danger-red-200 {
+    background: #FFBFBF;
+}
+
+.st_danger-red-300 {
+    background: #FF8585;
+}
+
+.st_danger-red-400 {
+    background: #FF5454;
+}
+
+.st_danger-red-500 {
+    background: #EC2D30;
+}
+
+/* Warning */
+.st_warning-yellow-25 {
+    background: #FFF9EE;
+}
+
+.st_warning-yellow-50 {
+    background: #FFF2D1;
+}
+
+.st_warning-yellow-100 {
+    background: #FFEAB3;
+}
+
+.st_warning-yellow-200 {
+    background: #FFDD82;
+}
+
+.st_warning-yellow-300 {
+    background: #FECF6E;
+}
+
+.st_warning-yellow-400 {
+    background: #FEBB4A;
+}
+
+.st_warning-yellow-500 {
+    background: #FFAD0D;
+}
+
+/* Positive */
+.st_positive-green-25 {
+    background: #F2FAF6;
+}
+
+.st_positive-green-50 {
+    background: #D9EFE3;
+}
+
+.st_positive-green-100 {
+    background: #C0E5D1;
+}
+
+.st_positive-green-200 {
+    background: #97D4B4;
+}
+
+.st_positive-green-300 {
+    background: #6BC497;
+}
+
+.st_positive-green-400 {
+    background: #47B881;
+}
+
+.st_positive-green-500 {
+    background: #0C9D61;
+}
+
+/* Information */
+.st_information-blue-25 {
+    background: #F1F8FF;
+}
+
+.st_information-blue-50 {
+    background: #E7F4FE;
+}
+
+.st_information-blue-100 {
+    background: #D7ECFE;
+}
+
+.st_information-blue-200 {
+    background: #B0D7FE;
+}
+
+.st_information-blue-300 {
+    background: #89BDFC;
+}
+
+.st_information-blue-400 {
+    background: #6BA6F9;
+}
+
+.st_information-blue-500 {
+    background: #3B82F6;
+}
+
+

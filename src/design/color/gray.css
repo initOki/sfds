@@ -1,0 +1,46 @@
+/**********
+*  Gray   *
+**********/
+.st_gray-25 {
+    background: #FAFBFE;
+}
+
+.st_gray-50 {
+    background: #F3F5FA;
+}
+
+.st_gray-100 {
+    background: #E9EDF5;
+}
+
+.st_gray-200 {
+    background: #DAE0EA;
+}
+
+.st_gray-300 {
+    background: #C9D1DB;
+}
+
+.st_gray-400 {
+    background: #94A3B8;
+}
+
+.st_gray-500 {
+    background: #64748B;
+}
+
+.st_gray-600 {
+    background: #475569;
+}
+
+.st_gray-700 {
+    background: #27364B;
+}
+
+.st_gray-800 {
+    background: #1E2A3B;
+}
+
+.st_gray-900 {
+    background: #0F1A2A;
+}

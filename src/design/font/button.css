@@ -1,0 +1,39 @@
+/**********
+* Button  *
+**********/
+
+.st_button-b-1 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.st_button-b-2 {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.st_button-b-3 {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.st_button-m-1 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.st_button-m-2 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.st_button-m-3 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}

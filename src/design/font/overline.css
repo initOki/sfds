@@ -1,0 +1,17 @@
+/**********
+*Overline *
+**********/
+
+.st_overline-b {
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 12px;
+    /*letter-spacing: -2%;*/
+}
+
+.st_overline-r {
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 12px;
+    /*letter-spacing: -2%;*/
+}

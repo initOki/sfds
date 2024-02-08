@@ -1,0 +1,12 @@
+{
+  "name": "sfds",
+  "version": "1.0.2",
+  "description": "A global CSS file",
+  "main": "sds.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["css", "global"],
+  "author": "Eden",
+  "license": "MIT"
+}

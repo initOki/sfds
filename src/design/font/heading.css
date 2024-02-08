@@ -1,0 +1,107 @@
+/**********
+* Heading *
+***********/
+.st_heading-pc-1 {
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 70px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-pc-2 {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 56px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-pc-3 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 47px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-pc-4 {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 42px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-pc-5 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 32px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-tablet-2 {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 56px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-tablet-3 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 47px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-tablet-4 {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 42px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-tablet-5 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 32px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-tablet-6 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-mobile-2 {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 56px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-mobile-3 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 47px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-mobile-4 {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 42px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-mobile-5 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 32px;
+    /*letter-spacing: -1%;*/
+}
+
+.st_heading-mobile-6 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    /*letter-spacing: -1%;*/
+}
